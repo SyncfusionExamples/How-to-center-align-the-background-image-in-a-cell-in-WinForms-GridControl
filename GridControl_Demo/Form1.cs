@@ -19,9 +19,9 @@ namespace GridControl_Demo
         {
             InitializeComponent();
             gridControl1.RowCount = 10;
-            gridControl1.ColCount = 4;
-            
+            gridControl1.ColCount = 4;        
         }
+        
         private void OnAddImage(object sender, EventArgs e)
         {
             var img = Image.FromFile(@"..\..\Images\img.png");
