@@ -1,6 +1,6 @@
 # How to center align the background image in a cell in WinForms GridControl?
 
-In [WinForms GridControl](https://www.syncfusion.com/winforms-ui-controls/grid-control), a background image can be applied to a specific cell. To align the background image to the center, set the [BackgroundImageMode](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Grid.GridStyleInfo.html#Syncfusion_Windows_Forms_Grid_GridStyleInfo_BackgroundImageMode) property to Center. This helps ensure the image is properly centered within the cell.
+In [WinForms GridControl](https://www.syncfusion.com/winforms-ui-controls/grid-control), a background image can be applied to a specific cell. To align the background image to the center, set the [BackgroundImageMode](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Grid.GridStyleInfo.html#Syncfusion_Windows_Forms_Grid_GridStyleInfo_BackgroundImageMode) property to CenterImage. This helps ensure the image is properly centered within the cell.
 
  ```csharp
  private void OnAddImage(object sender, EventArgs e)
